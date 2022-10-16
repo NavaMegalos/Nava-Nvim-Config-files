@@ -9,9 +9,6 @@ call plug#begin('~/.config/nvim/plugged')
     Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
     Plug 'junegunn/fzf.vim'
 
-    "TMUX
-    Plug 'tmux-plugins/vim-tmux'
-
     "COC
     Plug 'neoclide/coc.nvim', {'branch': 'release'}
 
@@ -22,5 +19,13 @@ call plug#begin('~/.config/nvim/plugged')
     Plug 'nvim-lua/plenary.nvim'
     "Plug 'nvim-telescope/telescope.nvim', { 'tag': '0.1.0' }
     " or                                , { 'branch': '0.1.x' }
+
+    "TYPING
+    Plug 'alvan/vim-closetag'
+    Plug 'tpope/vim-surround'
+
+    "TMUX
+    Plug 'benmills/vimux'
+    Plug 'christoomey/vim-tmux-navigator'
 
 call plug#end()
