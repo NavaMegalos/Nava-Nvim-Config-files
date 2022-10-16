@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/Megalos/eclipse-workspace/Calculadora2/Calculadora2'
+let g:netrw_dirhist_2='/home/Megalos/eclipse-workspace/Calculadora2/Calculadora2/Calculadora2'
+let g:netrw_dirhist_3='/root/Documents/projectArduinos/ArduinoSerial'
+let g:netrw_dirhist_4='/root/Documents/projectArduinos/ArduinoSerial/__pycache__'
+let g:netrw_dirhist_5='/home/Megalos/.config/i3'
+let g:netrw_dirhist_6='/home/Megalos/.zsh'
+let g:netrw_dirhist_7='/home/Megalos/.config'
+let g:netrw_dirhist_8='/home/Megalos/workspaces/simple_practice'
